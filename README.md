@@ -123,7 +123,7 @@ This provided packet-level confirmation of the permitted HTTP communication path
 | LAN to DMZ SSH | Block | Blocked |
 | DMZ DNS resolution | Allow | Passed |
 | DMZ outbound HTTP/HTTPS | Allow | Passed |
-| DMZ access to tested LAN and TEST gateways | Restrict | Blocked |
+| DMZ access to LAN and TEST gateways (ICMP) | Restrict | Blocked |
 | Kali to DMZ HTTP | Allow | Passed |
 | Nmap service identification | Identify Apache | Successful |
 | Suricata Nmap detection | Generate alert | Successful |
