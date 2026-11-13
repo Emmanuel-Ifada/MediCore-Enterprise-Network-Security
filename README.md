@@ -28,6 +28,7 @@ The main objectives were to:
 
 ## Network Architecture
 
+![MediCore Healthcare Services Network Architecture](medicore_network_architecture%20%281%29.png)
 The lab consists of three internal network segments connected through a central pfSense firewall.
 
 | Network | Subnet | Gateway | Main System |
