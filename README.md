@@ -163,3 +163,6 @@ The project was implemented using VMware Workstation Pro 17 on a Windows host. A
 ---
 
 *This project was independently developed as a hands-on learning and portfolio exercise. MediCore Healthcare Services is fictional and is not affiliated with a real healthcare provider.*
+## Project Status
+
+Completed — Core firewall configuration, network segmentation, connectivity testing, Suricata intrusion detection, and Wireshark traffic analysis were implemented and validated in a controlled virtual environment.
